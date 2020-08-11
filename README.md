@@ -5,6 +5,7 @@ A quick-start Blazor WebAssembly application that helps you edit project data in
 Watch the video: Coming soon...
 
 Documentation: https://blazor.syncfusion.com/documentation/gantt-chart/getting-started/#enable-editing
+
 Online example: https://blazor.syncfusion.com/demos/gantt-chart/editing
 
 ## Project prerequisites
